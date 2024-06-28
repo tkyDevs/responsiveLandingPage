@@ -1,0 +1,35 @@
+body {
+  background-color: #212529;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand {
+  color: #087f5b;
+  font-weight: 700;
+  letter-spacing: 4px;
+  font-size: 1.5em;
+}
+
+#navbarNav {
+  text-transform: uppercase;
+  font-weight: 200;
+  letter-spacing: 2px;
+}
+
+#main-text h1 {
+  font-weight: 100;
+  letter-spacing: 7px;
+}
+
+#main-text h1 {
+  color: aliceblue;
+}
+
+#main-text span {
+  color: #e03131;
+}
